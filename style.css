@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+}
+/* *{
+    border:solid yellowgreen;
+} */
+.header{
+    border: 3px solid blue;
+    display:flex;
+    justify-content: space-between ;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+h2,p{
+    text-align: center;
+}
